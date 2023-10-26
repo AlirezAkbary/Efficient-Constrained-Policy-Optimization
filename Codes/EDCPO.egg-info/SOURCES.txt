@@ -1,0 +1,5 @@
+setup.py
+EDCPO.egg-info/PKG-INFO
+EDCPO.egg-info/SOURCES.txt
+EDCPO.egg-info/dependency_links.txt
+EDCPO.egg-info/top_level.txt
